@@ -18,8 +18,12 @@ Required Applications:
 - sudo apt install git
 - sudo apt install make
 
-Clone repository
+Clone / get repositories
 - git clone https://github.com/LarryWay/OpenCVBinaries.git
+- wget https://github.com/opencv/opencv/archive/4.x.zip
+- unzip 4.x.zip
+- rm -rf 4.x.zip
+- 
 
 Final Commands:
 - sudo make install
