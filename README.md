@@ -1,5 +1,9 @@
 # OpenCVBinaries
 
+Raspberry pi flash
+Version: Raspberry Pi OS Lite (64 bit)
+
+
 First things to do on a fresh flash
 1. Update the OS
 2. Enable legacy camera
